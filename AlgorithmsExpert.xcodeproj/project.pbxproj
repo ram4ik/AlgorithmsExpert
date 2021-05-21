@@ -19,6 +19,7 @@
 		952A31012658003500E5D01F /* DepthFirstSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31002658003500E5D01F /* DepthFirstSearch.swift */; };
 		952A3105265801E600E5D01F /* ProductSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A3104265801E600E5D01F /* ProductSum.swift */; };
 		952A310726581BA200E5D01F /* Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310626581BA200E5D01F /* Palindrome.swift */; };
+		952A310926582BDD00E5D01F /* BubbleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310826582BDD00E5D01F /* BubbleSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		952A31002658003500E5D01F /* DepthFirstSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepthFirstSearch.swift; sourceTree = "<group>"; };
 		952A3104265801E600E5D01F /* ProductSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductSum.swift; sourceTree = "<group>"; };
 		952A310626581BA200E5D01F /* Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palindrome.swift; sourceTree = "<group>"; };
+		952A310826582BDD00E5D01F /* BubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				952A31002658003500E5D01F /* DepthFirstSearch.swift */,
 				952A3104265801E600E5D01F /* ProductSum.swift */,
 				952A310626581BA200E5D01F /* Palindrome.swift */,
+				952A310826582BDD00E5D01F /* BubbleSort.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				952A310926582BDD00E5D01F /* BubbleSort.swift in Sources */,
 				952A3105265801E600E5D01F /* ProductSum.swift in Sources */,
 				952A30FB2657DC3C00E5D01F /* FindClosestValueInValues.swift in Sources */,
 				952A30E42657D76500E5D01F /* ContentView.swift in Sources */,
