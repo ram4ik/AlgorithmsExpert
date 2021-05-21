@@ -18,6 +18,7 @@
 		952A30FF2657FB2800E5D01F /* NodeDepths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A30FE2657FB2800E5D01F /* NodeDepths.swift */; };
 		952A31012658003500E5D01F /* DepthFirstSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31002658003500E5D01F /* DepthFirstSearch.swift */; };
 		952A3105265801E600E5D01F /* ProductSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A3104265801E600E5D01F /* ProductSum.swift */; };
+		952A310726581BA200E5D01F /* Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310626581BA200E5D01F /* Palindrome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		952A30FE2657FB2800E5D01F /* NodeDepths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NodeDepths.swift; sourceTree = "<group>"; };
 		952A31002658003500E5D01F /* DepthFirstSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepthFirstSearch.swift; sourceTree = "<group>"; };
 		952A3104265801E600E5D01F /* ProductSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductSum.swift; sourceTree = "<group>"; };
+		952A310626581BA200E5D01F /* Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palindrome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				952A30FE2657FB2800E5D01F /* NodeDepths.swift */,
 				952A31002658003500E5D01F /* DepthFirstSearch.swift */,
 				952A3104265801E600E5D01F /* ProductSum.swift */,
+				952A310626581BA200E5D01F /* Palindrome.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				952A30F92657DAB300E5D01F /* ValidateSubsequence.swift in Sources */,
 				952A30E22657D76500E5D01F /* AlgorithmsExpertApp.swift in Sources */,
 				952A31012658003500E5D01F /* DepthFirstSearch.swift in Sources */,
+				952A310726581BA200E5D01F /* Palindrome.swift in Sources */,
 				952A30FD2657E34500E5D01F /* Sum.swift in Sources */,
 				952A30F72657D80A00E5D01F /* TwoNumbersSum.swift in Sources */,
 				952A30FF2657FB2800E5D01F /* NodeDepths.swift in Sources */,
