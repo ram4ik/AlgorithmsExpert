@@ -7,7 +7,7 @@
 
 import Foundation
 
-class BubbleSort {
+class BubbleSort: Helpers {
     
     func solutionOne(array: inout [Int]) -> [Int] {
         var isSorted = false
@@ -16,18 +16,12 @@ class BubbleSort {
             isSorted = true
             for i in 0..<array.count - 1 - counter {
                 if array[i] > array[i + 1] {
-                    helper(i, i + 1, &array)
+                    swap(i, i + 1, &array)
                     isSorted = false
                 }
             }
             counter = counter + 1
         }
         return array
-    }
-    
-    private func helper(_ firstIndex: Int, _ secondIndex: Int, _ array: inout [Int]) {
-        let temp = array[secondIndex]
-        array[secondIndex] = array[firstIndex]
-        array[firstIndex] = temp
     }
 }
