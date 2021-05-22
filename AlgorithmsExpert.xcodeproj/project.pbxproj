@@ -23,6 +23,7 @@
 		952A310B265830B000E5D01F /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310A265830B000E5D01F /* InsertionSort.swift */; };
 		952A310D265833EC00E5D01F /* SelectionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310C265833EC00E5D01F /* SelectionSort.swift */; };
 		952A3110265834CF00E5D01F /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310F265834CF00E5D01F /* Helpers.swift */; };
+		952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		952A310A265830B000E5D01F /* InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
 		952A310C265833EC00E5D01F /* SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSort.swift; sourceTree = "<group>"; };
 		952A310F265834CF00E5D01F /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+		952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaesarCipherEncryptor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				952A310826582BDD00E5D01F /* BubbleSort.swift */,
 				952A310A265830B000E5D01F /* InsertionSort.swift */,
 				952A310C265833EC00E5D01F /* SelectionSort.swift */,
+				952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				952A31012658003500E5D01F /* DepthFirstSearch.swift in Sources */,
 				952A310726581BA200E5D01F /* Palindrome.swift in Sources */,
 				952A30FD2657E34500E5D01F /* Sum.swift in Sources */,
+				952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */,
 				952A310B265830B000E5D01F /* InsertionSort.swift in Sources */,
 				952A30F72657D80A00E5D01F /* TwoNumbersSum.swift in Sources */,
 				952A30FF2657FB2800E5D01F /* NodeDepths.swift in Sources */,
