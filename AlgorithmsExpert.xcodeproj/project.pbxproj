@@ -26,6 +26,7 @@
 		952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */; };
 		952A31192659186E00E5D01F /* SmallestDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31182659186E00E5D01F /* SmallestDifference.swift */; };
 		95910A0C265A76F000D02934 /* LongestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0B265A76F000D02934 /* LongestPeak.swift */; };
+		95910A0E265A785300D02934 /* MoveElementToTheEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaesarCipherEncryptor.swift; sourceTree = "<group>"; };
 		952A31182659186E00E5D01F /* SmallestDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDifference.swift; sourceTree = "<group>"; };
 		95910A0B265A76F000D02934 /* LongestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPeak.swift; sourceTree = "<group>"; };
+		95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveElementToTheEnd.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			children = (
 				952A31182659186E00E5D01F /* SmallestDifference.swift */,
 				95910A0B265A76F000D02934 /* LongestPeak.swift */,
+				95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -251,6 +254,7 @@
 				952A30E22657D76500E5D01F /* AlgorithmsExpertApp.swift in Sources */,
 				952A31012658003500E5D01F /* DepthFirstSearch.swift in Sources */,
 				952A310726581BA200E5D01F /* Palindrome.swift in Sources */,
+				95910A0E265A785300D02934 /* MoveElementToTheEnd.swift in Sources */,
 				952A30FD2657E34500E5D01F /* Sum.swift in Sources */,
 				952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */,
 				952A310B265830B000E5D01F /* InsertionSort.swift in Sources */,
