@@ -16,7 +16,7 @@ class BubbleSort: Helpers {
             isSorted = true
             for i in 0..<array.count - 1 - counter {
                 if array[i] > array[i + 1] {
-                    swap(i, i + 1, &array)
+                    Helpers.swap(i, i + 1, &array)
                     isSorted = false
                 }
             }

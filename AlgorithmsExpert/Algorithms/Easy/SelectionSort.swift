@@ -18,7 +18,7 @@ class SelectionSort: Helpers {
                     indexOfSmallest = i
                 }
             }
-            swap(currentIndex, indexOfSmallest, &array)
+            Helpers.swap(currentIndex, indexOfSmallest, &array)
             currentIndex = currentIndex + 1
         }
         return array

@@ -13,7 +13,7 @@ class InsertionSort: Helpers {
         for i in 1..<array.count {
             var j = i
             while j > 0, array[j] < array[j - 1] {
-                swap(j, j - 1, &array)
+                Helpers.swap(j, j - 1, &array)
                 j = j - 1
             }
         }

@@ -27,6 +27,7 @@
 		952A31192659186E00E5D01F /* SmallestDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31182659186E00E5D01F /* SmallestDifference.swift */; };
 		95910A0C265A76F000D02934 /* LongestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0B265A76F000D02934 /* LongestPeak.swift */; };
 		95910A0E265A785300D02934 /* MoveElementToTheEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */; };
+		95910A10265A79D800D02934 /* SingleCircleCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0F265A79D800D02934 /* SingleCircleCheck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		952A31182659186E00E5D01F /* SmallestDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDifference.swift; sourceTree = "<group>"; };
 		95910A0B265A76F000D02934 /* LongestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPeak.swift; sourceTree = "<group>"; };
 		95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveElementToTheEnd.swift; sourceTree = "<group>"; };
+		95910A0F265A79D800D02934 /* SingleCircleCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleCircleCheck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		952A30F02657D77A00E5D01F /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				952A310E265834B300E5D01F /* Utils */,
 				952A30F12657D78700E5D01F /* Easy */,
 				952A30F22657D78F00E5D01F /* Medium */,
 				952A30F32657D79A00E5D01F /* Hard */,
@@ -117,7 +120,6 @@
 		952A30F12657D78700E5D01F /* Easy */ = {
 			isa = PBXGroup;
 			children = (
-				952A310E265834B300E5D01F /* Utils */,
 				952A30F62657D80A00E5D01F /* TwoNumbersSum.swift */,
 				952A30F82657DAB300E5D01F /* ValidateSubsequence.swift */,
 				952A30FA2657DC3C00E5D01F /* FindClosestValueInValues.swift */,
@@ -140,6 +142,7 @@
 				952A31182659186E00E5D01F /* SmallestDifference.swift */,
 				95910A0B265A76F000D02934 /* LongestPeak.swift */,
 				95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */,
+				95910A0F265A79D800D02934 /* SingleCircleCheck.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				952A3105265801E600E5D01F /* ProductSum.swift in Sources */,
 				952A31192659186E00E5D01F /* SmallestDifference.swift in Sources */,
 				952A310D265833EC00E5D01F /* SelectionSort.swift in Sources */,
+				95910A10265A79D800D02934 /* SingleCircleCheck.swift in Sources */,
 				952A30FB2657DC3C00E5D01F /* FindClosestValueInValues.swift in Sources */,
 				952A30E42657D76500E5D01F /* ContentView.swift in Sources */,
 				952A30F92657DAB300E5D01F /* ValidateSubsequence.swift in Sources */,
