@@ -25,6 +25,7 @@
 		952A3110265834CF00E5D01F /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A310F265834CF00E5D01F /* Helpers.swift */; };
 		952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */; };
 		952A31192659186E00E5D01F /* SmallestDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A31182659186E00E5D01F /* SmallestDifference.swift */; };
+		95910A0C265A76F000D02934 /* LongestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0B265A76F000D02934 /* LongestPeak.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		952A310F265834CF00E5D01F /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 		952A31162659064200E5D01F /* CaesarCipherEncryptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaesarCipherEncryptor.swift; sourceTree = "<group>"; };
 		952A31182659186E00E5D01F /* SmallestDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDifference.swift; sourceTree = "<group>"; };
+		95910A0B265A76F000D02934 /* LongestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPeak.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				952A31182659186E00E5D01F /* SmallestDifference.swift */,
+				95910A0B265A76F000D02934 /* LongestPeak.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95910A0C265A76F000D02934 /* LongestPeak.swift in Sources */,
 				952A310926582BDD00E5D01F /* BubbleSort.swift in Sources */,
 				952A3110265834CF00E5D01F /* Helpers.swift in Sources */,
 				952A3105265801E600E5D01F /* ProductSum.swift in Sources */,
