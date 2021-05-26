@@ -28,6 +28,7 @@
 		95910A0C265A76F000D02934 /* LongestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0B265A76F000D02934 /* LongestPeak.swift */; };
 		95910A0E265A785300D02934 /* MoveElementToTheEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */; };
 		95910A10265A79D800D02934 /* SingleCircleCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A0F265A79D800D02934 /* SingleCircleCheck.swift */; };
+		95910A5A265E684500D02934 /* LargestRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A59265E684500D02934 /* LargestRange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		95910A0B265A76F000D02934 /* LongestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPeak.swift; sourceTree = "<group>"; };
 		95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveElementToTheEnd.swift; sourceTree = "<group>"; };
 		95910A0F265A79D800D02934 /* SingleCircleCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleCircleCheck.swift; sourceTree = "<group>"; };
+		95910A59265E684500D02934 /* LargestRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestRange.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 		952A30F32657D79A00E5D01F /* Hard */ = {
 			isa = PBXGroup;
 			children = (
+				95910A59265E684500D02934 /* LargestRange.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				95910A0E265A785300D02934 /* MoveElementToTheEnd.swift in Sources */,
 				952A30FD2657E34500E5D01F /* Sum.swift in Sources */,
 				952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */,
+				95910A5A265E684500D02934 /* LargestRange.swift in Sources */,
 				952A310B265830B000E5D01F /* InsertionSort.swift in Sources */,
 				952A30F72657D80A00E5D01F /* TwoNumbersSum.swift in Sources */,
 				952A30FF2657FB2800E5D01F /* NodeDepths.swift in Sources */,
