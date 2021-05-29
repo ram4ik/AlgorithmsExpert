@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1DAA2BE12662C23700B7CF03 /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA2BE02662C23700B7CF03 /* MonotonicArray.swift */; };
 		952A30E22657D76500E5D01F /* AlgorithmsExpertApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A30E12657D76500E5D01F /* AlgorithmsExpertApp.swift */; };
 		952A30E42657D76500E5D01F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A30E32657D76500E5D01F /* ContentView.swift */; };
 		952A30E62657D76700E5D01F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952A30E52657D76700E5D01F /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1DAA2BE02662C23700B7CF03 /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		952A30DE2657D76500E5D01F /* AlgorithmsExpert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlgorithmsExpert.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		952A30E12657D76500E5D01F /* AlgorithmsExpertApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsExpertApp.swift; sourceTree = "<group>"; };
 		952A30E32657D76500E5D01F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				95910A0B265A76F000D02934 /* LongestPeak.swift */,
 				95910A0D265A785200D02934 /* MoveElementToTheEnd.swift */,
 				95910A0F265A79D800D02934 /* SingleCircleCheck.swift */,
+				1DAA2BE02662C23700B7CF03 /* MonotonicArray.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				952A3110265834CF00E5D01F /* Helpers.swift in Sources */,
 				952A3105265801E600E5D01F /* ProductSum.swift in Sources */,
 				952A31192659186E00E5D01F /* SmallestDifference.swift in Sources */,
+				1DAA2BE12662C23700B7CF03 /* MonotonicArray.swift in Sources */,
 				952A310D265833EC00E5D01F /* SelectionSort.swift in Sources */,
 				95910A10265A79D800D02934 /* SingleCircleCheck.swift in Sources */,
 				952A30FB2657DC3C00E5D01F /* FindClosestValueInValues.swift in Sources */,
