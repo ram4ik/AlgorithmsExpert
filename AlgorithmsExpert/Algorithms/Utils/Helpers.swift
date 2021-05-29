@@ -24,4 +24,10 @@ class Helpers {
             return nextIndex + array.count
         }
     }
+    
+    static func incrementCounters(counters: [Incrementable]) {
+        for counter in counters {
+            counter.increment(by: 1)
+        }
+    }
 }
