@@ -11,6 +11,7 @@
 		1DAA2BE32662C3E200B7CF03 /* KadanesAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA2BE22662C3E200B7CF03 /* KadanesAlgorithm.swift */; };
 		1DAA2BE52662C75100B7CF03 /* Incrementable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA2BE42662C75100B7CF03 /* Incrementable.swift */; };
 		1DAA2BE72663CE2100B7CF03 /* FindLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA2BE62663CE2100B7CF03 /* FindLoop.swift */; };
+		1DAA2BE926640A3100B7CF03 /* ZigzagTraverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DAA2BE826640A3100B7CF03 /* ZigzagTraverse.swift */; };
 		952A30E22657D76500E5D01F /* AlgorithmsExpertApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A30E12657D76500E5D01F /* AlgorithmsExpertApp.swift */; };
 		952A30E42657D76500E5D01F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A30E32657D76500E5D01F /* ContentView.swift */; };
 		952A30E62657D76700E5D01F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952A30E52657D76700E5D01F /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		1DAA2BE22662C3E200B7CF03 /* KadanesAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KadanesAlgorithm.swift; sourceTree = "<group>"; };
 		1DAA2BE42662C75100B7CF03 /* Incrementable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Incrementable.swift; sourceTree = "<group>"; };
 		1DAA2BE62663CE2100B7CF03 /* FindLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLoop.swift; sourceTree = "<group>"; };
+		1DAA2BE826640A3100B7CF03 /* ZigzagTraverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigzagTraverse.swift; sourceTree = "<group>"; };
 		952A30DE2657D76500E5D01F /* AlgorithmsExpert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlgorithmsExpert.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		952A30E12657D76500E5D01F /* AlgorithmsExpertApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsExpertApp.swift; sourceTree = "<group>"; };
 		952A30E32657D76500E5D01F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 			children = (
 				95910A59265E684500D02934 /* LargestRange.swift */,
 				1DAA2BE62663CE2100B7CF03 /* FindLoop.swift */,
+				1DAA2BE826640A3100B7CF03 /* ZigzagTraverse.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 				952A30FD2657E34500E5D01F /* Sum.swift in Sources */,
 				952A31172659064200E5D01F /* CaesarCipherEncryptor.swift in Sources */,
 				95910A5A265E684500D02934 /* LargestRange.swift in Sources */,
+				1DAA2BE926640A3100B7CF03 /* ZigzagTraverse.swift in Sources */,
 				952A310B265830B000E5D01F /* InsertionSort.swift in Sources */,
 				952A30F72657D80A00E5D01F /* TwoNumbersSum.swift in Sources */,
 				952A30FF2657FB2800E5D01F /* NodeDepths.swift in Sources */,
